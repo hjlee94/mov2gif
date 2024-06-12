@@ -12,10 +12,10 @@ Here is my use case:
 
 Below is a screen capture of the usage.
 
-<img src="./imgs/gui.png" width="300" height="300">)
+<img src="./imgs/gui.png" width="300" height="300">
 
 Here is the GIF image converted from a MOV file.
 
-![](./imgs/result.gif)
+<img src="./imgs/output.gif" width="300" height="200">
 
 Have fun! 😀

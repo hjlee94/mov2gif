@@ -69,7 +69,7 @@ class Window(Tk):
         
         self.label_status.config(text="processing...")
         try:
-            self.clip.write_gif(out_path, fps=self._fps, loop=1)
+            self.clip.write_gif(out_path, fps=self._fps, loop=0)
             self.label_status.config(text="succeeded")
 
         except:
